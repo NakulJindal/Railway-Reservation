@@ -1,0 +1,19 @@
+Hello People 
+Welcome to my railway reservation project repository . 
+This project is solely made using C++ .  I used OOPs concept , file handling , Object writing and reading into/from the files . 
+Some good features in our system are :
+ 1). New User signUp and Login Features also Forgot Password Features. 
+ 2). You can get list of trains from your boarding station to destination .
+ 3). Book Tickets .
+ 4). Make payment.
+ 5). Get pnr and Watch your ticket
+ 6). Give Feedback
+ 7). Register your greivances
+ 
+I hope that you may like our project 
+If you think improvements can be done then please share your valuable feedback.
+
+            Thanks
+            
+            
+            

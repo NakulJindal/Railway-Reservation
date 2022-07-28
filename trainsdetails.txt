@@ -1,0 +1,12 @@
+1001,Duranto Express,500,delhi,jammu
+1002,Jammu Mail,555,delhi,jammu
+1003,Shane Punjab Express,300,delhi,Jalandhar
+1004,Super Express,400,amritsar,delhi
+1005,Sachkhand Express,450,amritsar,mathura
+1006,Paschim Express,800,amritsar,mumbai
+1007,Sarvodaya Express,600,ludhiana,ahemdabad
+1008,Gandhinagar Special,225,ahemdabad,gandhinagar
+1009,Hawra Special,325,Jalandhar,delhi
+1010,Golden Temple Mail,465,mathura,amritsar
+1011,Mumbai Express,900,mumbai,amritsar
+1012,Gujarat Express,650,ahemdabad,ludhiana
